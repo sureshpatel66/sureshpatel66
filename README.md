@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suresh Kondeti, PhD in Molecular biology associated with DNA, RNA sequencing, gene interactions and cell signaling.
-- 👀 I’m interested in research molecular biology and bioinformatics
+- 👀 I’m interested in research molecular biology and bioinformatics.
 - 🌱 I’m currently learning advanced skills/tools in mechine learning and AI associated with sequecning and disease diagnosis.
 - 💞️ I’m looking for collaboration in innovative michine learning and AI tools in biomedical research topics...
 - 📫 How to reach me ..www.linkedin.com/in/sureshkondeti
